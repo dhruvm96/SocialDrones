@@ -14,6 +14,8 @@ Crazyflie Research Honors Senior Design
 cfcli is a python script for easily controlling automatic flight of Crazyflie drone. 
 Crazy Flie Command Line Interface supports various commands and runs of commands from the command line. 
 
+cfcli/cfcv_gesture_FaceDetectionCaffe implements Gesture Recognition and uses OpenCV's deep learning module along with a Caffe Module to  detect faces.
+
 3 other builds of cfcli
 Cfcli_ex.py (ex = extended) uses cflib to connect and send movement commands to the Crazyflie. 
     Multiple input methods are supported, including command line, PS4 controller, 
