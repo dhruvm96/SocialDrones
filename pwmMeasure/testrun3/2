@@ -1,0 +1,61 @@
+function pwm2power(dir, name)
+power_dat = load(strcat(dir, name, '.csv'));
+command_file = fopen(strcat(dir, name, '.commands'));
+command_dat = textscan(command_file, '%d, %s');
+
+power_time = power_dat(:,1);
+power_m1 = power_dat(:,7);
+power_m2 = power_dat(:,8);
+power_m3 = power_dat(:,9);
+power_m4 = power_dat(:,10);
+power_total = power_dat(:,11);
+
+count = 0;
+runavg = 0;
+avg = zeros(size(power_total, 1), 1);
+M2 = 0;
+var = zeros(size(power_total, 1), 1);
+for i = 1:size(power_total, 1)
+	new_value = power_total(i);
+	if ismember(power_time(i), command_dat{1});
+		count = 0;
+		runavg = 0;
+		M2 = 0;
+	end
+	count = count + 1; 
+	delta = new_value - runavg;
+	runavg = runavg + delta / count;
+	avg(i) = runavg;
+	delta2 = new_value - runavg;
+	M2 = M2 + delta * delta2;
+	if count < 2
+		var(i) = 0;
+	else
+		var(i) = M2/(count-1);
+	end
+end
+
+figure(1);
+plot(power_time, power_m1)
+hold on;
+plot(power_time, power_m2)
+plot(power_time, power_m3)
+plot(power_time, power_m4)
+plot(power_time, power_total)
+errorbar(power_time, avg, var)
+xlabel("Time (ms)");
+ylabel("Power (W)");
+title(strcat("Power from PWM (Test ", name, ")"));
+
+xtuple = [command_dat{1}, command_dat{1}]';
+yvect = ylim().*ones(size(command_dat{1}, 1), 2);
+plot(xtuple, yvect');
+legend('m1', 'm2', 'm3', 'm4', 'total', 'mean/var');
+
+yl = ylim();
+yvect = yl(2)*0.7*ones(1, size(command_dat{1}, 1));
+text(double(command_dat{1}), yvect, command_dat{2})
+hold off;
+
+write_name = strcat(dir, name, '_out.csv');
+

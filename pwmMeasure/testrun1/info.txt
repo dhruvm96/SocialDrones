@@ -1,0 +1,4 @@
+A single motor is tested (m1). 
+Current sensor (shunt resistor = .1 Ohm) is measured with osc. 
+The motor voltage is calculated using wanted PWM and measured PWM with equations found in crazyflie firmware. 
+All 5 tests are identical.

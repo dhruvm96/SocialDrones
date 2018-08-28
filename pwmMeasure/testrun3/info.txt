@@ -1,0 +1,1 @@
+All motors pwm are recorded using crazyflie logging lib. Bareword files are cfcli.py command files. First line must be four numbers (velocity, angular velocity, height change, duration) and the commands must be a supported command followed by a number of seconds for delay.

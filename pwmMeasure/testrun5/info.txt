@@ -1,0 +1,51 @@
+This testrun uses the ramp_power.py script to run all four motors with the folowing ramp parameters:
+Subtest 1: stepping: 0x100, delay: 0.1s
+Subtest 2: stepping: 0x1000, delay: 1s 
+Subtest 3: stepping: 0x1000, delay: 5s
+Subtest 4: stepping: 0x4000, delay: 10s
+Subtest 5: stepping: 0x4000, delay: 30s
+Test 1: 1.75" height above ground plane 
+Test 2: 3.5"
+Test 3: 5.25"
+Test 4: 6"
+Test 5: 0" 
+
+ramp_power.py logging in files ramp_power_N.log (Test N)
+pwm_parse.pl used to convert .log to .csv
+subtests: ramp_power_N_*.csv
+Header for ramp_power*.csv:
+time, m1_pwm, m2_pwm, m3_pwm, m4_pwm, set_pwm, calc_volt_m1, calc_volt_m2, calc_volt_m3, calc_volt_m4
+time is in ms. (50ms sample rate)
+
+Two Keysight osc. are used to measure the voltage across and shunt resistor voltage of motors 1 and 2. 
+osc. logging in files m1_data_N.csv and m2_data_N.csv
+m1 data is inverted (-1)
+V1: shunt, V2: motor
+(50ms sample rate)
+Header for m*_data*.csv:
+File Revision:,1.2
+Start time:,March 21 2018 08:56:55
+Configuration
+Duration:,400 s,,,,,Status Legend
+Interval:,0.050 s,,,,,NS=No sync src
+Sync Source:,TRIG(Line),,,,,MS=Some windows missing sync src
+Meas Window:,50 ms,,,,,OV=Overload on given channels
+Sync Offset:,0.000 ?
+Noise Reject:,Medium
+
+Channel:,CHAN1,CHAN2
+Coupling:,DC,DC
+Antialiasing:,Off,Off
+Voltage Range:,5 Vrms,5 Vrms
+Current Range:,200 mArms,200 mArms
+Voltage HV Setting:,Off,Off
+Current HV Setting:,Off,Off
+Voltage Filter:,LPF 500 Hz,LPF 1 kHz
+Current Filter:,None,None
+Current Source:,50 Amp,50 Amp
+Current Ratio:,1.000 A/A,1.000 A/A
+Current Offset:,0.000 A,0.000 A
+Voltage Ratio:,1.000 V/V,1.000 V/V
+Voltage Offset:,0.000 V,0.000 V
+Wiring:,1P2W1M,1P2W1M
+Status,Timestamp (s),V1 DC (V),V1 AC (VRMS),V1 AC+DC (VRMS),V1 RECT MEAN (V),V1 MAX (V),V1 MIN (V),V1 FREQ (Hz),V1 CREST,I1 DC (A),I1 AC (ARMS),I1 AC+DC (ARMS),I1 RECT MEAN (A),I1 MAX (A),I1 MIN (A),I1 FREQ (Hz),I1 CREST,P1 DC (W),P1 AC (W),P1 AC+DC (W),P1 AC (VA),P1 AC+DC (VA),P1 AC (VAR),P1 AC+DC (VAR),P1 AC POWER FACTOR,P1 AC+DC POWER FACTOR,P1 AC POWER ANGLE (DEG),P1 AC+DC POWER ANGLE (DEG),P1 ENERGY WATT-HOUR (Wh),I1 ENERGY AMP-HOUR (Ah),P1 ENERGY VA-HOUR (VAh),V2 DC (V),V2 AC (VRMS),V2 AC+DC (VRMS),V2 RECT MEAN (V),V2 MAX (V),V2 MIN (V),V2 FREQ (Hz),V2 CREST,I2 DC (A),I2 AC (ARMS),I2 AC+DC (ARMS),I2 RECT MEAN (A),I2 MAX (A),I2 MIN (A),I2 FREQ (Hz),I2 CREST,P2 DC (W),P2 AC (W),P2 AC+DC (W),P2 AC (VA),P2 AC+DC (VA),P2 AC (VAR),P2 AC+DC (VAR),P2 AC POWER FACTOR,P2 AC+DC POWER FACTOR,P2 AC POWER ANGLE (DEG),P2 AC+DC POWER ANGLE (DEG),P2 ENERGY WATT-HOUR (Wh),I2 ENERGY AMP-HOUR (Ah),P2 ENERGY VA-HOUR (VAh),EFFICIENCY(P2/P1) (Percent)

@@ -1,0 +1,21 @@
+This testrun uses the ramp_power.py script to run all four motors with the folowing ramp parameters:
+Subtest 1: stepping: 0x100, delay: 0.1s
+Subtest 2: stepping: 0x1000, delay: 1s 
+Subtest 3: stepping: 0x1000, delay: 5s
+Subtest 4: stepping: 0x4000, delay: 10s
+Subtest 5: stepping: 0x4000, delay: 30s
+Test 1: crazyflie bolted to ground
+Test 2: crazyflie hoisted in the air
+
+ramp_power.py logging in files rampN.log (rampN_test*.csv)
+Header for ramp*.csv:
+time, m1_pwm, m2_pwm, m3_pwm, m4_pwm, set_pwm, calc_volt_m1, calc_volt_m2, calc_volt_m3, calc_volt_m4
+time is in ms. (50ms sample rate)
+
+Two Keysight osc. are used to measure the voltage across and shunt resistor voltage of motors 1 and 2. 
+oscsc. logging in files m1_oscN.csv and m2_oscN.csv
+V1: shunt, V2: motor
+Header for m*_osc*.csv:
+x-axis,V1,V2
+second,Volt,Volt
+(200ms sample rate)

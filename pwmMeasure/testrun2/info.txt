@@ -1,0 +1,11 @@
+A single motor is tested (m1). Current sensor (shunt resistor = .1 Ohm) is measured with osc. The motor voltage is measured with osc also. Voltage is calculated using battery voltage and  measured PWM with equations found in crazyflie firmware. The tests are as follows: 
+1) Single motor run (m1); Small stepping 
+2) Dual motor run (m1/m2); Small stepping 
+3) Dual motor run (m1/m3); Small stepping 
+4) Dual motor run (m1/m4); Small stepping 
+5) Triple motor run (m1/m2/m4); Small stepping 
+6) All motor run; Small stepping 
+7) Single motor run (m1); Med. stepping 
+8) All motor run; Med. stepping 
+9) Single motor run (m1); Large stepping 
+10) All motor run; Large stepping 

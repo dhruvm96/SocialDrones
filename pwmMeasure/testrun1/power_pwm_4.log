@@ -1,0 +1,783 @@
+Scanning interfaces for Crazyflies...
+Crazyflies found:
+radio://0/28/250K
+radio://0/48/250K
+radio://0/77/250K
+radio://0/80/250K
+radio://0/83/250K
+radio://0/112/250K
+Connecting to radio://0/80/250K
+Mon Feb  5 21:50:32 2018
+Readback: controller.tiltComp=0
+[1402888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1402938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1402988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+Readback: controller.tiltComp=0
+[1403038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=61184
+Readback: motorPowerSet.m4=0
+Readback: motorPowerSet.m3=0
+Readback: motorPowerSet.enable=0
+Readback: motorPowerSet.m2=0
+[1403388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+Starting Ramp:
+[1403838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1403888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.enable=1
+[1403938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50540.0, 'pwm.m2_pwm': 0.0}
+[1403988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50749.0, 'pwm.m2_pwm': 0.0}
+[1404038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50610.0, 'pwm.m2_pwm': 0.0}
+[1404088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50540.0, 'pwm.m2_pwm': 0.0}
+[1404138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+[1404788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50471.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=0
+[1404838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1404888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=256
+[1404938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 346.0, 'pwm.m2_pwm': 0.0}
+[1404988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 346.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=512
+[1405038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 691.0, 'pwm.m2_pwm': 0.0}
+[1405088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 691.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=768
+[1405138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1035.0, 'pwm.m2_pwm': 0.0}
+[1405188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1035.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=1024
+[1405238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1378.0, 'pwm.m2_pwm': 0.0}
+[1405288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1378.0, 'pwm.m2_pwm': 0.0}
+[1405338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1378.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=1280
+[1405388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1720.0, 'pwm.m2_pwm': 0.0}
+[1405438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 1720.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=1536
+[1405488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2061.0, 'pwm.m2_pwm': 0.0}
+[1405538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2061.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=1792
+[1405588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2400.0, 'pwm.m2_pwm': 0.0}
+[1405638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2400.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=2048
+[1405688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2738.0, 'pwm.m2_pwm': 0.0}
+[1405738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 2738.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=2304
+[1405788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3076.0, 'pwm.m2_pwm': 0.0}
+[1405838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3076.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=2560
+[1405888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3412.0, 'pwm.m2_pwm': 0.0}
+[1405938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3412.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=2816
+[1405988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3746.0, 'pwm.m2_pwm': 0.0}
+[1406038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 3746.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=3072
+[1406088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4080.0, 'pwm.m2_pwm': 0.0}
+[1406138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4080.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=3328
+[1406188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4413.0, 'pwm.m2_pwm': 0.0}
+[1406238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4413.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=3584
+[1406288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4744.0, 'pwm.m2_pwm': 0.0}
+[1406338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 4744.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=3840
+[1406388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5074.0, 'pwm.m2_pwm': 0.0}
+[1406438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5074.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=4096
+[1406488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5403.0, 'pwm.m2_pwm': 0.0}
+[1406538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5403.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=4352
+[1406588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5731.0, 'pwm.m2_pwm': 0.0}
+[1406638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 5731.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=4608
+[1406688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6058.0, 'pwm.m2_pwm': 0.0}
+[1406738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6058.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=4864
+[1406788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6384.0, 'pwm.m2_pwm': 0.0}
+[1406838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6384.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=5120
+[1406888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6708.0, 'pwm.m2_pwm': 0.0}
+[1406938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 6708.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=5376
+[1406988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7032.0, 'pwm.m2_pwm': 0.0}
+[1407038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7032.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=5632
+[1407088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7354.0, 'pwm.m2_pwm': 0.0}
+[1407138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7354.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=5888
+[1407188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7675.0, 'pwm.m2_pwm': 0.0}
+[1407238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7675.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=6144
+[1407288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7995.0, 'pwm.m2_pwm': 0.0}
+[1407338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 7995.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=6400
+[1407388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8313.0, 'pwm.m2_pwm': 0.0}
+[1407438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8313.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=6656
+[1407488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8631.0, 'pwm.m2_pwm': 0.0}
+[1407538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8631.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=6912
+[1407588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8947.0, 'pwm.m2_pwm': 0.0}
+[1407638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 8947.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=7168
+[1407688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9263.0, 'pwm.m2_pwm': 0.0}
+[1407738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9263.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=7424
+[1407788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9577.0, 'pwm.m2_pwm': 0.0}
+[1407838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9577.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=7680
+[1407888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9890.0, 'pwm.m2_pwm': 0.0}
+[1407938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 9890.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=7936
+[1407988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10202.0, 'pwm.m2_pwm': 0.0}
+[1408038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10215.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=8192
+[1408088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10526.0, 'pwm.m2_pwm': 0.0}
+[1408138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10526.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=8448
+[1408188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10836.0, 'pwm.m2_pwm': 0.0}
+[1408238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 10822.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=8704
+[1408288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11145.0, 'pwm.m2_pwm': 0.0}
+[1408338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11145.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=8960
+[1408388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11453.0, 'pwm.m2_pwm': 0.0}
+[1408438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11453.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=9216
+[1408488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11743.0, 'pwm.m2_pwm': 0.0}
+[1408538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 11759.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=9472
+[1408588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12064.0, 'pwm.m2_pwm': 0.0}
+[1408638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12064.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=9728
+[1408688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12369.0, 'pwm.m2_pwm': 0.0}
+[1408738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12369.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=9984
+[1408788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12672.0, 'pwm.m2_pwm': 0.0}
+[1408838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12672.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=10240
+[1408888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12973.0, 'pwm.m2_pwm': 0.0}
+[1408938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 12973.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=10496
+[1408988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13274.0, 'pwm.m2_pwm': 0.0}
+[1409038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13274.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=10752
+[1409088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13574.0, 'pwm.m2_pwm': 0.0}
+[1409138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13574.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=11008
+[1409188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13872.0, 'pwm.m2_pwm': 0.0}
+[1409238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 13872.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=11264
+[1409288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14169.0, 'pwm.m2_pwm': 0.0}
+[1409338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14169.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=11520
+[1409388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14465.0, 'pwm.m2_pwm': 0.0}
+[1409438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14465.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=11776
+[1409488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14760.0, 'pwm.m2_pwm': 0.0}
+[1409538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 14760.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=12032
+[1409588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15054.0, 'pwm.m2_pwm': 0.0}
+[1409638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15054.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=12288
+[1409688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15347.0, 'pwm.m2_pwm': 0.0}
+[1409738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15347.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=12544
+[1409788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15638.0, 'pwm.m2_pwm': 0.0}
+[1409838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15638.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=12800
+[1409888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15928.0, 'pwm.m2_pwm': 0.0}
+[1409938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 15928.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=13056
+[1409988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16217.0, 'pwm.m2_pwm': 0.0}
+[1410038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16217.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=13312
+[1410088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16505.0, 'pwm.m2_pwm': 0.0}
+[1410138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16528.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=13568
+[1410188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16792.0, 'pwm.m2_pwm': 0.0}
+[1410238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 16792.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=13824
+[1410288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17101.0, 'pwm.m2_pwm': 0.0}
+[1410338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17078.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=14080
+[1410388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17386.0, 'pwm.m2_pwm': 0.0}
+[1410438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17386.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=14336
+[1410488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17670.0, 'pwm.m2_pwm': 0.0}
+[1410538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17670.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=14592
+[1410588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17928.0, 'pwm.m2_pwm': 0.0}
+[1410638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 17952.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=14848
+[1410688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18234.0, 'pwm.m2_pwm': 0.0}
+[1410738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18234.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=15104
+[1410788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18514.0, 'pwm.m2_pwm': 0.0}
+[1410838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18514.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=15360
+[1410888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18793.0, 'pwm.m2_pwm': 0.0}
+[1410938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 18793.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=15616
+[1410988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19071.0, 'pwm.m2_pwm': 0.0}
+[1411038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19071.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=15872
+[1411088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19322.0, 'pwm.m2_pwm': 0.0}
+[1411138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19348.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=16128
+[1411188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19624.0, 'pwm.m2_pwm': 0.0}
+[1411238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19624.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=16384
+[1411288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19898.0, 'pwm.m2_pwm': 0.0}
+[1411338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 19898.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=16640
+[1411388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20171.0, 'pwm.m2_pwm': 0.0}
+[1411438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20171.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=16896
+[1411488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20444.0, 'pwm.m2_pwm': 0.0}
+[1411538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20444.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=17152
+[1411588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20715.0, 'pwm.m2_pwm': 0.0}
+[1411638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20715.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=17408
+[1411688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20984.0, 'pwm.m2_pwm': 0.0}
+[1411738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 20984.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=17664
+[1411788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21253.0, 'pwm.m2_pwm': 0.0}
+[1411838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21253.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=17920
+[1411888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21521.0, 'pwm.m2_pwm': 0.0}
+[1411938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21521.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=18176
+[1411988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21787.0, 'pwm.m2_pwm': 0.0}
+[1412038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 21787.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=18432
+[1412088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22052.0, 'pwm.m2_pwm': 0.0}
+[1412138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22082.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=18688
+[1412188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22316.0, 'pwm.m2_pwm': 0.0}
+[1412238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22316.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=18944
+[1412288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22610.0, 'pwm.m2_pwm': 0.0}
+[1412338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22579.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=19200
+[1412388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22841.0, 'pwm.m2_pwm': 0.0}
+[1412438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 22872.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=19456
+[1412488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23133.0, 'pwm.m2_pwm': 0.0}
+[1412538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23133.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=19712
+[1412588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23393.0, 'pwm.m2_pwm': 0.0}
+[1412638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23393.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=19968
+[1412688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23619.0, 'pwm.m2_pwm': 0.0}
+[1412738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23652.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=20224
+[1412788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23877.0, 'pwm.m2_pwm': 0.0}
+[1412838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 23909.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=20480
+[1412888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24133.0, 'pwm.m2_pwm': 0.0}
+[1412938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24165.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=20736
+[1412988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24421.0, 'pwm.m2_pwm': 0.0}
+[1413038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24421.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=20992
+[1413088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24675.0, 'pwm.m2_pwm': 0.0}
+[1413138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24675.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=21248
+[1413188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24928.0, 'pwm.m2_pwm': 0.0}
+[1413238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 24928.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=21504
+[1413288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25179.0, 'pwm.m2_pwm': 0.0}
+[1413338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25179.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=21760
+[1413388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25430.0, 'pwm.m2_pwm': 0.0}
+[1413438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25430.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=22016
+[1413488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25679.0, 'pwm.m2_pwm': 0.0}
+[1413538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25679.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=22272
+[1413588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25927.0, 'pwm.m2_pwm': 0.0}
+[1413638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 25927.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=22528
+[1413688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26175.0, 'pwm.m2_pwm': 0.0}
+[1413738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26175.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=22784
+[1413788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26420.0, 'pwm.m2_pwm': 0.0}
+[1413838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26420.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=23040
+[1413888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26665.0, 'pwm.m2_pwm': 0.0}
+[1413938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26665.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=23296
+[1413988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26909.0, 'pwm.m2_pwm': 0.0}
+[1414038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 26909.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=23552
+[1414088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27151.0, 'pwm.m2_pwm': 0.0}
+[1414138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27151.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=23808
+[1414188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27393.0, 'pwm.m2_pwm': 0.0}
+[1414238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27393.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=24064
+[1414288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27633.0, 'pwm.m2_pwm': 0.0}
+[1414338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27633.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=24320
+[1414388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27872.0, 'pwm.m2_pwm': 0.0}
+[1414438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 27910.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=24576
+[1414488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28148.0, 'pwm.m2_pwm': 0.0}
+[1414538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28109.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=24832
+[1414588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28346.0, 'pwm.m2_pwm': 0.0}
+[1414638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28385.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=25088
+[1414688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28621.0, 'pwm.m2_pwm': 0.0}
+[1414738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28582.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=25344
+[1414788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28855.0, 'pwm.m2_pwm': 0.0}
+[1414838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 28816.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=25600
+[1414888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29089.0, 'pwm.m2_pwm': 0.0}
+[1414938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29089.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=25856
+[1414988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29321.0, 'pwm.m2_pwm': 0.0}
+[1415038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29321.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=26112
+[1415088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29552.0, 'pwm.m2_pwm': 0.0}
+[1415138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29552.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=26368
+[1415188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29782.0, 'pwm.m2_pwm': 0.0}
+[1415238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 29782.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=26624
+[1415288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30011.0, 'pwm.m2_pwm': 0.0}
+[1415338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30011.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=26880
+[1415388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30198.0, 'pwm.m2_pwm': 0.0}
+[1415438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30239.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=27136
+[1415488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30465.0, 'pwm.m2_pwm': 0.0}
+[1415538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30465.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=27392
+[1415588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30691.0, 'pwm.m2_pwm': 0.0}
+[1415638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30691.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=27648
+[1415688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30915.0, 'pwm.m2_pwm': 0.0}
+[1415738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 30915.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=27904
+[1415788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31138.0, 'pwm.m2_pwm': 0.0}
+[1415838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31138.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=28160
+[1415888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31360.0, 'pwm.m2_pwm': 0.0}
+[1415938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31360.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=28416
+[1415988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31581.0, 'pwm.m2_pwm': 0.0}
+[1416038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31581.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=28672
+[1416088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31800.0, 'pwm.m2_pwm': 0.0}
+[1416138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 31800.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=28928
+[1416188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32019.0, 'pwm.m2_pwm': 0.0}
+[1416238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32019.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=29184
+[1416288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32236.0, 'pwm.m2_pwm': 0.0}
+[1416338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32236.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=29440
+[1416388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32452.0, 'pwm.m2_pwm': 0.0}
+[1416438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32452.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=29696
+[1416488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32667.0, 'pwm.m2_pwm': 0.0}
+[1416538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32667.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=29952
+[1416588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32881.0, 'pwm.m2_pwm': 0.0}
+[1416638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 32926.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=30208
+[1416688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33094.0, 'pwm.m2_pwm': 0.0}
+[1416738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33139.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=30464
+[1416788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33350.0, 'pwm.m2_pwm': 0.0}
+[1416838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33350.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=30720
+[1416888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33561.0, 'pwm.m2_pwm': 0.0}
+[1416938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33561.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=30976
+[1416988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33770.0, 'pwm.m2_pwm': 0.0}
+[1417038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33770.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=31232
+[1417088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33979.0, 'pwm.m2_pwm': 0.0}
+[1417138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 33979.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=31488
+[1417188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34186.0, 'pwm.m2_pwm': 0.0}
+[1417238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34186.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=31744
+[1417288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34392.0, 'pwm.m2_pwm': 0.0}
+[1417338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34392.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=32000
+[1417388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34597.0, 'pwm.m2_pwm': 0.0}
+[1417438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34597.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=32256
+[1417488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34800.0, 'pwm.m2_pwm': 0.0}
+[1417538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 34800.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=32512
+[1417588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35003.0, 'pwm.m2_pwm': 0.0}
+[1417638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35003.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=32768
+[1417688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35204.0, 'pwm.m2_pwm': 0.0}
+[1417738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35204.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=33024
+[1417788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35404.0, 'pwm.m2_pwm': 0.0}
+[1417838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35404.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=33280
+[1417888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35603.0, 'pwm.m2_pwm': 0.0}
+[1417938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35603.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=33536
+[1417988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35801.0, 'pwm.m2_pwm': 0.0}
+[1418038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35801.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=33792
+[1418088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 35998.0, 'pwm.m2_pwm': 0.0}
+[1418138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36047.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=34048
+[1418188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36193.0, 'pwm.m2_pwm': 0.0}
+[1418238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36193.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=34304
+[1418288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36388.0, 'pwm.m2_pwm': 0.0}
+[1418338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36437.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=34560
+[1418388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36581.0, 'pwm.m2_pwm': 0.0}
+[1418438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36631.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=34816
+[1418488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36823.0, 'pwm.m2_pwm': 0.0}
+[1418538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 36773.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=35072
+[1418588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37014.0, 'pwm.m2_pwm': 0.0}
+[1418638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37014.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=35328
+[1418688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37204.0, 'pwm.m2_pwm': 0.0}
+[1418738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37204.0, 'pwm.m2_pwm': 0.0}
+[1418788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37153.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=35584
+[1418838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37393.0, 'pwm.m2_pwm': 0.0}
+[1418888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37393.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=35840
+[1418938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37581.0, 'pwm.m2_pwm': 0.0}
+[1418988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37581.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=36096
+[1419038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37716.0, 'pwm.m2_pwm': 0.0}
+[1419088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37767.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=36352
+[1419138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37952.0, 'pwm.m2_pwm': 0.0}
+[1419188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 37952.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=36608
+[1419238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38137.0, 'pwm.m2_pwm': 0.0}
+[1419288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38137.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=36864
+[1419338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38319.0, 'pwm.m2_pwm': 0.0}
+[1419388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38319.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=37120
+[1419438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38501.0, 'pwm.m2_pwm': 0.0}
+[1419488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38501.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=37376
+[1419538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38682.0, 'pwm.m2_pwm': 0.0}
+[1419588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38682.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=37632
+[1419638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38861.0, 'pwm.m2_pwm': 0.0}
+[1419688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 38861.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=37888
+[1419738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39040.0, 'pwm.m2_pwm': 0.0}
+[1419788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39040.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=38144
+[1419838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39217.0, 'pwm.m2_pwm': 0.0}
+[1419888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39217.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=38400
+[1419938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39393.0, 'pwm.m2_pwm': 0.0}
+[1419988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39393.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=38656
+[1420038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39568.0, 'pwm.m2_pwm': 0.0}
+[1420088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39568.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=38912
+[1420138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39742.0, 'pwm.m2_pwm': 0.0}
+[1420188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39796.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=39168
+[1420238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39914.0, 'pwm.m2_pwm': 0.0}
+[1420288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 39914.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=39424
+[1420338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40085.0, 'pwm.m2_pwm': 0.0}
+[1420388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40140.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=39680
+[1420438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40311.0, 'pwm.m2_pwm': 0.0}
+[1420488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40256.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=39936
+[1420538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40425.0, 'pwm.m2_pwm': 0.0}
+[1420588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40480.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=40192
+[1420638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40648.0, 'pwm.m2_pwm': 0.0}
+[1420688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40648.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=40448
+[1420738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40759.0, 'pwm.m2_pwm': 0.0}
+[1420788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40815.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=40704
+[1420838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40981.0, 'pwm.m2_pwm': 0.0}
+[1420888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 40981.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=40960
+[1420938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41145.0, 'pwm.m2_pwm': 0.0}
+[1420988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41089.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=41216
+[1421038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41309.0, 'pwm.m2_pwm': 0.0}
+[1421088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41309.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=41472
+[1421138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41471.0, 'pwm.m2_pwm': 0.0}
+[1421188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41471.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=41728
+[1421238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41632.0, 'pwm.m2_pwm': 0.0}
+[1421288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41632.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=41984
+[1421338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41792.0, 'pwm.m2_pwm': 0.0}
+[1421388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41792.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=42240
+[1421438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41951.0, 'pwm.m2_pwm': 0.0}
+[1421488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 41951.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=42496
+[1421538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42109.0, 'pwm.m2_pwm': 0.0}
+[1421588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42109.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=42752
+[1421638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42265.0, 'pwm.m2_pwm': 0.0}
+[1421688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42265.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=43008
+[1421738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42420.0, 'pwm.m2_pwm': 0.0}
+[1421788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42420.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=43264
+[1421838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42575.0, 'pwm.m2_pwm': 0.0}
+[1421888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42575.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=43520
+[1421938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42728.0, 'pwm.m2_pwm': 0.0}
+[1421988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42728.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=43776
+[1422038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42879.0, 'pwm.m2_pwm': 0.0}
+[1422088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 42879.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=44032
+[1422138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43089.0, 'pwm.m2_pwm': 0.0}
+[1422188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43089.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=44288
+[1422238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43179.0, 'pwm.m2_pwm': 0.0}
+[1422288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43179.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=44544
+[1422338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43387.0, 'pwm.m2_pwm': 0.0}
+[1422388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43387.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=44800
+[1422438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43534.0, 'pwm.m2_pwm': 0.0}
+[1422488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43534.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=45056
+[1422538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43621.0, 'pwm.m2_pwm': 0.0}
+[1422588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43681.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=45312
+[1422638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43826.0, 'pwm.m2_pwm': 0.0}
+[1422688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43826.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=45568
+[1422738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43970.0, 'pwm.m2_pwm': 0.0}
+[1422788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 43909.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=45824
+[1422838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44112.0, 'pwm.m2_pwm': 0.0}
+[1422888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44112.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=46080
+[1422938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44254.0, 'pwm.m2_pwm': 0.0}
+[1422988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44254.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=46336
+[1423038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44394.0, 'pwm.m2_pwm': 0.0}
+[1423088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44394.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=46592
+[1423138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44533.0, 'pwm.m2_pwm': 0.0}
+[1423188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44533.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=46848
+[1423238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44671.0, 'pwm.m2_pwm': 0.0}
+[1423288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44671.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=47104
+[1423338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44808.0, 'pwm.m2_pwm': 0.0}
+[1423388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44808.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=47360
+[1423438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44944.0, 'pwm.m2_pwm': 0.0}
+[1423488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 44944.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=47616
+[1423538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45078.0, 'pwm.m2_pwm': 0.0}
+[1423588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45078.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=47872
+[1423638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45212.0, 'pwm.m2_pwm': 0.0}
+[1423688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45212.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=48128
+[1423738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45344.0, 'pwm.m2_pwm': 0.0}
+[1423788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45344.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=48384
+[1423838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45475.0, 'pwm.m2_pwm': 0.0}
+[1423888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45475.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=48640
+[1423938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45605.0, 'pwm.m2_pwm': 0.0}
+[1423988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45605.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=48896
+[1424038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45734.0, 'pwm.m2_pwm': 0.0}
+[1424088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45734.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=49152
+[1424138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45861.0, 'pwm.m2_pwm': 0.0}
+[1424188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45861.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=49408
+[1424238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45987.0, 'pwm.m2_pwm': 0.0}
+[1424288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 45987.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=49664
+[1424338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46113.0, 'pwm.m2_pwm': 0.0}
+[1424388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46113.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=49920
+[1424438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46237.0, 'pwm.m2_pwm': 0.0}
+[1424488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46237.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=50176
+[1424538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46423.0, 'pwm.m2_pwm': 0.0}
+[1424588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46360.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=50432
+[1424638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46545.0, 'pwm.m2_pwm': 0.0}
+[1424688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46545.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=50688
+[1424738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46666.0, 'pwm.m2_pwm': 0.0}
+[1424788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46666.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=50944
+[1424838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46785.0, 'pwm.m2_pwm': 0.0}
+[1424888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46721.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=51200
+[1424938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46904.0, 'pwm.m2_pwm': 0.0}
+[1424988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 46904.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=51456
+[1425038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47021.0, 'pwm.m2_pwm': 0.0}
+[1425088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47021.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=51712
+[1425138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47137.0, 'pwm.m2_pwm': 0.0}
+[1425188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47137.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=51968
+[1425238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47252.0, 'pwm.m2_pwm': 0.0}
+[1425288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47252.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=52224
+[1425338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47365.0, 'pwm.m2_pwm': 0.0}
+[1425388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47365.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=52480
+[1425438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47478.0, 'pwm.m2_pwm': 0.0}
+[1425488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47478.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=52736
+[1425538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47589.0, 'pwm.m2_pwm': 0.0}
+[1425588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47589.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=52992
+[1425638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47700.0, 'pwm.m2_pwm': 0.0}
+[1425688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47700.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=53248
+[1425738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47809.0, 'pwm.m2_pwm': 0.0}
+[1425788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47809.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=53504
+[1425838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47916.0, 'pwm.m2_pwm': 0.0}
+[1425888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 47916.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=53760
+[1425938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48023.0, 'pwm.m2_pwm': 0.0}
+[1425988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48023.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=54016
+[1426038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48129.0, 'pwm.m2_pwm': 0.0}
+[1426088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48129.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=54272
+[1426138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48299.0, 'pwm.m2_pwm': 0.0}
+[1426188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48233.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=54528
+[1426238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48336.0, 'pwm.m2_pwm': 0.0}
+[1426288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48336.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=54784
+[1426338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48438.0, 'pwm.m2_pwm': 0.0}
+[1426388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48505.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=55040
+[1426438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48606.0, 'pwm.m2_pwm': 0.0}
+[1426488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48539.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=55296
+[1426538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48706.0, 'pwm.m2_pwm': 0.0}
+[1426588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48706.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=55552
+[1426638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48804.0, 'pwm.m2_pwm': 0.0}
+[1426688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48804.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=55808
+[1426738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48902.0, 'pwm.m2_pwm': 0.0}
+[1426788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48902.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=56064
+[1426838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48931.0, 'pwm.m2_pwm': 0.0}
+[1426888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 48998.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=56320
+[1426938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49093.0, 'pwm.m2_pwm': 0.0}
+[1426988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49093.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=56576
+[1427038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49187.0, 'pwm.m2_pwm': 0.0}
+[1427088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49187.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=56832
+[1427138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49280.0, 'pwm.m2_pwm': 0.0}
+[1427188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49280.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=57088
+[1427238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49372.0, 'pwm.m2_pwm': 0.0}
+[1427288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49372.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=57344
+[1427338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49462.0, 'pwm.m2_pwm': 0.0}
+[1427388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49462.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=57600
+[1427438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49552.0, 'pwm.m2_pwm': 0.0}
+[1427488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49552.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=57856
+[1427538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49640.0, 'pwm.m2_pwm': 0.0}
+[1427588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49640.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=58112
+[1427638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49727.0, 'pwm.m2_pwm': 0.0}
+[1427688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49727.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=58368
+[1427738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49812.0, 'pwm.m2_pwm': 0.0}
+[1427788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49812.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=58624
+[1427838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49897.0, 'pwm.m2_pwm': 0.0}
+[1427888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49897.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=58880
+[1427938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49981.0, 'pwm.m2_pwm': 0.0}
+[1427988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 49981.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=59136
+[1428038][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50063.0, 'pwm.m2_pwm': 0.0}
+[1428088][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50132.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=59392
+[1428138][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50213.0, 'pwm.m2_pwm': 0.0}
+[1428188][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50213.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=59648
+[1428238][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50293.0, 'pwm.m2_pwm': 0.0}
+[1428288][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50293.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=59904
+[1428338][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50372.0, 'pwm.m2_pwm': 0.0}
+[1428388][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50303.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=60160
+[1428438][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50450.0, 'pwm.m2_pwm': 0.0}
+[1428488][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50450.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=60416
+[1428538][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50457.0, 'pwm.m2_pwm': 0.0}
+[1428588][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50526.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=60672
+[1428638][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50602.0, 'pwm.m2_pwm': 0.0}
+[1428688][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50602.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=60928
+[1428738][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50676.0, 'pwm.m2_pwm': 0.0}
+[1428788][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50606.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.m1=61184
+[1428838][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50749.0, 'pwm.m2_pwm': 0.0}
+[1428888][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 50749.0, 'pwm.m2_pwm': 0.0}
+Readback: motorPowerSet.enable=0
+[1428938][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
+[1428988][PWM]: {'pwm.m3_pwm': 0.0, 'pwm.m4_pwm': 0.0, 'pwm.m1_pwm': 0.0, 'pwm.m2_pwm': 0.0}
